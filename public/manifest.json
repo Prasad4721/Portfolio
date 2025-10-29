@@ -1,0 +1,23 @@
+{
+  "name": "PrasadOS - Digital Universe",
+  "short_name": "PrasadOS",
+  "description": "Futuristic AI-inspired portfolio showcasing cutting-edge web development and innovative solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00f5ff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
+

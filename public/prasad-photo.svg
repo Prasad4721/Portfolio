@@ -1,0 +1,7 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="400" fill="#1A0B2E"/>
+<rect x="50" y="50" width="300" height="300" fill="#00F5FF" rx="20"/>
+<circle cx="200" cy="150" r="40" fill="#FFF"/>
+<rect x="160" y="200" width="80" height="40" fill="#FFF" rx="20"/>
+<text x="200" y="300" fill="#FFF" font-family="Arial" font-size="16" text-anchor="middle">Prasad Rahane</text>
+</svg>
