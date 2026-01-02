@@ -4,6 +4,8 @@ A **futuristic AI-inspired portfolio website** that showcases cutting-edge web d
 
 Built with **Next.js, TypeScript, Tailwind CSS, Framer Motion**, and **Three.js**.
 
+🌐 **Live Demo:** https://p-r-portfolio.vercel.app/
+
 ---
 
 ## ✨ Features
